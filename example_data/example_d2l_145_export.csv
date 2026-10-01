@@ -1,0 +1,6 @@
+OrgDefinedId,Username,CompTIA Week 2: Modules 2 & 3 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 3: Modules 4 & 10 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 4: Modules 12 & 13 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 5: Module 15 & 16 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 6: Modules 14 & 17 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 7: Modules 5 & 6 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 8: Modules 7 & 11 Points Grade <Numeric MaxPoints:30 Category:CompTIA Labs>,CompTIA Week 9: Module 21 & 22 Points Grade <Numeric MaxPoints:15 Category:CompTIA Labs>,End-of-Line Indicator
+#G01234567,#student.one,,,,,,,,,#
+#G02345678,#student.two,,,,,,,,,#
+#G03456789,#student.trois,,,,,,,,,#
+#G09876543,#student.four,,,,,,,,,#
+#G08765432,#student.five,,,,,,,,,#
